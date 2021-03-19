@@ -1,0 +1,12 @@
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\bin\Debug\Web_Brauser.exe.config
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\bin\Debug\Web_Brauser.exe
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\bin\Debug\Web_Brauser.pdb
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.Properties.Resources.resources
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.exe
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.pdb
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.browser.resources
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.History.resources
+C:\Users\админ\Desktop\лабы\Web_Brauser\Web_Brauser\obj\Debug\Web_Brauser.SiteMark.resources
